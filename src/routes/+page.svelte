@@ -24,7 +24,7 @@
 	
 	.page {
 		display: flex;
-		direction: column;
+		flex-direction: column;
 		align-items: center;
 		
 		min-height: 100vh;
