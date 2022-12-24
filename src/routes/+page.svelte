@@ -1,3 +1,5 @@
+<img src="/photo.jpeg" alt="title"/>
+
 <h1>Welcome to the Lazy Frog Pond</h1>
 <img src="/jake.png" alt="jake"/>
 <a href="https://www.etsy.com/shop/lazyfrogpond">Visit the pond!</a>
