@@ -1,7 +1,13 @@
+<script lang="ts">
+	import Icon from '@iconify/svelte';
+</script>
+
+
+
 <img src="/photo.jpeg" alt="title"/>
 
 
-Visit the pond!</a>
+
 
 <div class="flex">
 	<a href="https://www.etsy.com/shop/lazyfrogpond">
