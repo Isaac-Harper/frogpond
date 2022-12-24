@@ -27,7 +27,9 @@
 	
 	.flex {
 		display: flex;
-		justify-content: center;
+		justify-content: space-between;
+		width: 5rem;
+		
 	}
 	
 	a {
