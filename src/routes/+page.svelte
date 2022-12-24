@@ -1,8 +1,9 @@
-<div class="page">
-	<script lang="ts">
-		import Icon from '@iconify/svelte';
-	</script>
 
+<script lang="ts">
+	import Icon from '@iconify/svelte';
+</script>
+	
+<div class="page">
 	<img src="/photo.jpeg" alt="title"/>
 
 	<div class="flex">
