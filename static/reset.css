@@ -18,7 +18,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   
-  background-color: var(--background-dark);
+  background-color: #C7F1FF;
 }
 
 img, picture, video, canvas, svg {
@@ -33,10 +33,9 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: var(--bold-wght);
-  color: var(--title-font-dark); 
+  
 }
 
 p {
-	color: var(--normal-font-dark)
+	
 }
