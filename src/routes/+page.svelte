@@ -13,6 +13,10 @@
 	<a href="https://www.etsy.com/shop/lazyfrogpond">
 		<Icon icon="simple-icons:etsy" />
 	</a>	
+	
+	<a href="https://instagram.com/lazyfrogpond?igshid=NTdlMDg3MTY=">
+		<Icon icon="simple-icons:instagram" />
+	</a>
 </div>
 
 
@@ -24,5 +28,10 @@
 	.flex {
 		display: flex;
 		justify-content: center;
+	}
+	
+	a {
+		color: black;
+		text-decoration: none;
 	}
 </style>
