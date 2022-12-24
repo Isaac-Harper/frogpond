@@ -25,6 +25,10 @@
 		display: flex;
 		direction: column;
 		align-items: center;
+		
+		min-height: 100vh;
+		min-height: 100dvh;
+		padding: 1rem;
 	}
 	
 	.flex {
