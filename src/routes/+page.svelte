@@ -4,10 +4,9 @@
 </script>
 
 <div class="container">	
+	<img class="title" src="/photo.jpeg" alt="title"/>
 	<div class="page">
-		<img class="title" src="/photo.jpeg" alt="title"/>
 		
-		<p>Cute things made here</p>
 		
 		<div class="space"/>
 		
@@ -29,7 +28,7 @@
 
 <style>
 	.title {
-		width: 100vw;
+		max-width: 30rem;	
 	}
 	
 	.container {
@@ -50,8 +49,6 @@
 		align-items: center;
 		gap: 1rem;
 		
-		min-height: 100vh;
-		min-height: 100dvh;
 		
 		max-width: 50rem;
 		padding: 1rem;
