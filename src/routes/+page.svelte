@@ -2,22 +2,24 @@
 <script lang="ts">
 	import Icon from '@iconify/svelte';
 </script>
-	
-<div class="page">
-	<img src="/photo.jpeg" alt="title"/>
-	
-	<div class="space"/>
 
-	<div class="flex">
-		<a href="https://www.etsy.com/shop/lazyfrogpond">
-			<Icon icon="simple-icons:etsy" />
-		</a>		
+<div class="container">	
+	<div class="page">
+		<img src="/photo.jpeg" alt="title"/>
 		
-		<a href="https://instagram.com/lazyfrogpond?igshid=NTdlMDg3MTY=">
-			<Icon icon="simple-icons:instagram" />
-		</a>
+		<div class="space"/>
+
+		<div class="flex">
+			<a href="https://www.etsy.com/shop/lazyfrogpond">
+				<Icon icon="simple-icons:etsy" />
+			</a>		
+			
+			<a href="https://instagram.com/lazyfrogpond?igshid=NTdlMDg3MTY=">
+				<Icon icon="simple-icons:instagram" />
+			</a>
+		</div>
 	</div>
-</div>
+</div>	
 
 <style>
 	img {
