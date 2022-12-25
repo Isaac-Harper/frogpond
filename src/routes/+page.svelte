@@ -4,16 +4,18 @@
 </script>
 
 <div class="container">	
-	<img class="title" src="/photo.jpeg" alt="title"/>
+	
 	<div class="page">
-		
+		<img class="title" src="/photo.jpeg" alt="title"/>
 		
 		<div class="space"/>
 		
-		<img class="item" src="/froggies.jpg" alt="froggies"/>
-		<img class="item" src="/arson.jpg" alt="arson"/>
-		<img class="item" src="/bowl.jpg" alt="bowl"/>
-
+		<div class="items">
+		
+			<img class="item" src="/froggies.jpg" alt="froggies"/>
+			<img class="item" src="/arson.jpg" alt="arson"/>
+			<img class="item" src="/bowl.jpg" alt="bowl"/>
+		</div>
 		<div class="flex">
 			<a href="https://www.etsy.com/shop/lazyfrogpond">
 				<Icon icon="simple-icons:etsy" />
@@ -42,6 +44,9 @@
 		border-radius: 1rem;
 		overflow: hidden;
 	}
+	.items {
+		padding: 0 1rem;
+	}
 	
 	.page {
 		display: flex;
@@ -51,7 +56,6 @@
 		
 		
 		max-width: 50rem;
-		padding: 1rem;
 	}
 	
 	.flex {
