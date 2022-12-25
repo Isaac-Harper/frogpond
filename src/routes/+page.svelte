@@ -7,6 +7,8 @@
 	<div class="page">
 		<img src="/photo.jpeg" alt="title"/>
 		
+		<p>Cute things made here</p>
+		
 		<div class="space"/>
 
 		<div class="flex">
