@@ -31,6 +31,7 @@
 <style>
 	.title {
 		max-width: 30rem;	
+		width: 100vw;
 	}
 	
 	.container {
