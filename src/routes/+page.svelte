@@ -26,6 +26,11 @@
 		width: 100vw;
 	}
 	
+	.container {
+		display: flex;
+		justify-content: center;
+	}	
+	
 	.page {
 		display: flex;
 		flex-direction: column;
